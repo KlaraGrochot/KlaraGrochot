@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Klara!
 - 👀 I’m interested in Web Development, Game Development, Graphic Design, Artificial Intelligence and new technologies.
-- 🌱 I’m currently learning Java within Android Studio.
+- 🌱 I’m currently learning Java and Android Studio.
 - 💞️ I’m looking to collaborate on interesting projects in the scope of my abilities.
 - 📫 How to reach me: Just send me an e-mail on grochot.klara@gmail.com!
